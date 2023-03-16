@@ -1,6 +1,7 @@
 ## Hi, Khoa here 👋
 [![Email me](https://img.shields.io/badge/Email-nhnkhoa%40gmail.com-EA4335)](mailto:nhnkhoa@gmail.com)
 [![Connect on Linkedin](https://img.shields.io/badge/Connect-Linkedin-0A66C2)](https://www.linkedin.com/in/khoanhn/)
+[![Follow on Twitter](https://img.shields.io/badge/Follow-Twitter-1da1f2)](https://twitter.com/khoanhn)
 <!--[![Sponsor on Github](https://img.shields.io/badge/Sponsor%20my%20work-323330?logo=githubsponsors)](https://www.linkedin.com/in/khoanhn/)-->
 
 I'm a Power Platform / Dynamics 365 developer and a Microsoft MVP in Business Applications.
